@@ -1,0 +1,16 @@
+# Core libraries for model inference
+transformers==4.30.0
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.24.3
+pandas==2.0.3
+
+# For data preprocessing and text handling
+nltk==3.7
+scikit-learn==1.2.2
+# For logging and monitoring
+loguru==0.6.0
+# Optional: For interactive command-line interface
+rich==13.3.5
+# Optional: For environment management
+python-dotenv==1.0.0
