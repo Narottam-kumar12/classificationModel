@@ -1,0 +1,38 @@
+INFO:root:{"input": "I love this product!", "predicted_label": 1, "confidence": 0.9998855590820312}
+INFO:root:{"input": "The movie was painfully slow and boring.\"", "predicted_label": 0, "confidence": 0.9998063445091248}
+INFO:root:{"input": "Could you clarify your intent? Was this a negative review?", "predicted_label": 0, "confidence": 0.9996665716171265}
+INFO:root:{"input": "Yes, it was definitely negative", "predicted_label": 0, "confidence": 0.9996463060379028}
+INFO:root:{"input": "I love this product", "initial_prediction": "Positive", "confidence": 0.9998788833618164, "status": "initial_prediction"}
+INFO:root:{"input": "why you do not hate this product", "initial_prediction": "Positive", "confidence": 0.992163896560669, "status": "initial_prediction"}
+INFO:root:{"input": "this movie so bad I will not watch again", "initial_prediction": "Negative", "confidence": 0.9997338652610779, "status": "initial_prediction"}
+INFO:root:{"input": "fallback", "initial_prediction": "Negative", "confidence": 0.9995322227478027, "status": "initial_prediction"}
+INFO:root:{"input": "I absolutely loved this movie! It was fantastic!", "initial_prediction": "Positive", "confidence": 0.9998791217803955, "status": "initial_prediction"}
+INFO:root:{"input": "This product is terrible and broke after one use", "initial_prediction": "Negative", "confidence": 0.9997135996818542, "status": "initial_prediction"}
+INFO:root:{"input": "I love this product!", "initial_prediction": "Positive", "confidence": 0.9998855590820312, "status": "initial_prediction"}
+INFO:root:{"input": "I love this product", "initial_prediction": "Positive", "confidence": 0.9998788833618164, "status": "initial_prediction"}
+INFO:root:{"input": "I love this product", "initial_prediction": "Positive", "confidence": 0.9998788833618164, "status": "initial_prediction"}
+INFO:root:{"input": "okay", "initial_prediction": "Positive", "confidence": 0.9997709393501282, "status": "initial_prediction"}
+INFO:root:{"input": "not", "initial_prediction": "Negative", "confidence": 0.99064701795578, "status": "initial_prediction"}
+INFO:root:{"input": "why do you not hate me", "initial_prediction": "Positive", "confidence": 0.997789740562439, "status": "initial_prediction"}
+INFO:root:{"input": "I love this product", "initial_prediction": "Positive", "confidence": 0.9998788833618164, "status": "initial_prediction"}
+INFO:root:{"input": "why do love this", "initial_prediction": "Positive", "confidence": 0.9998520612716675, "status": "initial_prediction"}
+INFO:root:{"input": "it is okay", "initial_prediction": "Positive", "confidence": 0.9998480081558228, "status": "initial_prediction"}
+INFO:root:{"input": "i do not like it", "initial_prediction": "Negative", "confidence": 0.998218834400177, "status": "initial_prediction"}
+INFO:root:{"input": "I love this product", "initial_prediction": "Positive", "confidence": 0.9998788833618164, "status": "initial_prediction"}
+INFO:root:{"input": "i do not like it", "initial_prediction": "Negative", "confidence": 0.7, "status": "initial_prediction"}
+INFO:root:{"input": "it is okay", "initial_prediction": "Negative", "confidence": 0.55, "status": "initial_prediction"}
+INFO:root:{"input": "I love this product", "initial_prediction": "Positive", "confidence": 0.9998788833618164}
+INFO:root:{"input": "i do not like it", "initial_prediction": "Negative", "confidence": 0.7}
+INFO:root:{"input": "it is okay", "initial_prediction": "Negative", "confidence": 0.55}
+INFO:root:{"input": "this movie is too bad and I will not watch again", "initial_prediction": "Negative", "confidence": 0.7}
+INFO:root:{"input": "this movie too good", "initial_prediction": "Positive", "confidence": 0.9995495676994324}
+INFO:root:{"input": "why you love me", "initial_prediction": "Positive", "confidence": 0.9989492297172546}
+INFO:root:{"input": "I dont like you", "initial_prediction": "Negative", "confidence": 0.9177224040031433}
+INFO:root:{"input": "I absolutely love this product! It exceeded my expectations.", "initial_prediction": "Positive", "confidence": 0.9998810291290283}
+INFO:root:{"input": "The service was fantastic, and the staff were very friendly", "initial_prediction": "Positive", "confidence": 0.9998822212219238}
+INFO:root:{"input": "I hated this product. It broke after one use", "initial_prediction": "Negative", "confidence": 0.9997766613960266}
+INFO:root:{"input": "I had a bad experience with customer service. Very disappointing", "initial_prediction": "Negative", "confidence": 0.9998176693916321}
+INFO:root:{"input": "The product is okay, nothing specia", "initial_prediction": "Negative", "confidence": 0.55}
+INFO:root:{"input": "The book was fine, but I expected more from the author", "initial_prediction": "Negative", "confidence": 0.55}
+INFO:root:{"input": "The book was fine, but I expected more from the author", "initial_prediction": "Negative", "confidence": 0.55}
+INFO:root:{"clarified_input": "yes", "final_prediction": "Positive", "confidence": 0.9997805953025818}
