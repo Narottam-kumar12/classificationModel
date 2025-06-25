@@ -125,5 +125,9 @@ Avg. Inference --->	~50ms per review (on CPU)
 
 📊 Sentiment intensity scoring (very positive → very negative)
 
+#Demo video
+
+link ---> https://drive.google.com/file/d/1Xhb2EDrahEusn3U6AYG2Z2Q_WzSv6Io-/view?usp=drivesdk
+
 
 
