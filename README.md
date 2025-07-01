@@ -1,12 +1,12 @@
-Setiment Analysis System
+# Setiment Analysis System
 
-🧠 Overview
+## 🧠 Overview
 
 This project implements a robust Sentiment Analysis System built using a fine-tuned DistilBERT model. 
 It classifies text reviews as positive or negative, with an intelligent self-correcting fallback mechanism for ambiguous or low-confidence predictions.
 This system is ideal for applications requiring real-time sentiment feedback with user interaction and correction for improved accuracy.
 
-✅ Features
+## ✅ Features
 
   🔍 Sentiment Classification :   Detects positive or negative sentiment in English reviews.
 
@@ -20,10 +20,10 @@ This system is ideal for applications requiring real-time sentiment feedback wit
 
    ⚙️ Customizable Settingsn :      Easily configurable model and logging parameters.
 
-Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-💬 Sample Interaction:
+## 💬 Sample Interaction:
 
 Enter a review: I love this product!
 
@@ -49,7 +49,7 @@ Please clarify your review: It was mediocre
 
 🗂️ File Structure
 
-classificationModel/
+## classificationModel/
 
 ├── main.py                   # Main CLI interface
 
@@ -67,7 +67,7 @@ classificationModel/
 
 └── logs/                     # Logged predictions and feedback
 
-🧬 Model Specifications
+## 🧬 Model Specifications
 
 .........................................................................................................
 
@@ -85,7 +85,7 @@ Avg. Inference --->	~50ms per review (on CPU)
 
 .........................................................................................................
 
-📈 Performance
+## 📈 Performance
 
 ✅ Strong Reviews (clear positive/negative): ~98% accurate
 
@@ -101,7 +101,7 @@ Avg. Inference --->	~50ms per review (on CPU)
     -   Negations    : "Not bad"
 
 
-🚫 Limitations
+## 🚫 Limitations
 
 🌐 Only supports English language
 
@@ -113,7 +113,7 @@ Avg. Inference --->	~50ms per review (on CPU)
 
 ..............................................................................
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 🌍 Multi-language support
 
@@ -125,7 +125,7 @@ Avg. Inference --->	~50ms per review (on CPU)
 
 📊 Sentiment intensity scoring (very positive → very negative)
 
-#Demo video
+## Demo video
 
 link ---> https://drive.google.com/file/d/1Xhb2EDrahEusn3U6AYG2Z2Q_WzSv6Io-/view?usp=drivesdk
 
